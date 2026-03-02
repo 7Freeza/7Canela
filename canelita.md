@@ -1,7 +1,7 @@
 Sebastian Ropain
 🚀 Desarrollador en formación
 
-Soy una persona en constante aprendizaje, enfocada en fortalecer mis bases en programación y sistemas. Me interesa comprender la tecnología desde sus fundamentos y mejorar cada día mediante la práctica.
+Soy una persona en constante aprendizaje, enfocada en fortalecer mis bases en programación y sistemas. Me interesa comprender la tecnología desde sus fundamentos y mejorar cada día mediante la práctica en riwi.
 
 💡 Perfil Profesional
 
@@ -23,7 +23,3 @@ Manejo básico de comandos y ejecución de programas desde línea de comandos.
 🎯 Objetivo Profesional
 
 Seguir creciendo como desarrollador, mejorar mis habilidades técnicas y participar en proyectos que me permitan evolucionar profesionalmente.
-
-Esto lo puedes copiar directamente en tu README.md de GitHub y se verá bien estructurado y profesional.
-
-Si quieres, puedo hacerlo más minimalista, más impactante o más técnico.
